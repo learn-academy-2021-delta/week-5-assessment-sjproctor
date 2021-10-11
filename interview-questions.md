@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Accessors, can be made mutators with a bang operator, .map, .capitalize
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Anonymous function, chunks of code that can be passed to a method, do/end keywords that define the scope of a block
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Code packages, like a plugin, package manager called RubyGems, like RSpec
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: DB in a speadsheet like form, rows/columns, SQL - all SQL languages are relational, non-relational db, NOSQL (not only sql) Mongo - non-relational db
 
 
 
@@ -41,19 +41,19 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Primary Key - unique identifier in a relational db
 
 
 
 ## Looking Ahead: Terms for Next Week
 Research and define the following terms to the best of your ability.
 
-1. RESTful routes:
+1. RESTful routes: Representational State Transfer, set of agreed upon actions (http requests) that can be applied to data, connecting the front and back end of apps
 
-2. JSON:
+2. JSON: a structure of data used in RESTful applications, JavaScript Object Notation
 
-3. ERB:
+3. ERB: Ruby's version of JSX, the blending of HTML and Ruby, embedded Ruby
 
-4. Params:
+4. Params: Add info into the controller through the URL, Parameters
 
-5. API:
+5. API: Application Programming Interface, flow of information from computers to users, website for computers (data)
